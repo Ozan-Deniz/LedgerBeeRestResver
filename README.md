@@ -15,13 +15,6 @@ The **Ledger Bee Rest Server** is a RESTful API backend for the **Ledger Bee** p
 
 ### Prerequisites
 
-- **Node.js** (version 14 or higher)
+- **Node.js** 
 - **npm** (Node package manager)
-- **A database** (e.g., MongoDB, PostgreSQL) — see configuration section for details
-
-### Steps to Install
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/Ozan-Deniz/LedgerBeeRestResver.git
-   cd LedgerBeeRestResver
+- **A database** (PostgreSQL) — see configuration section for details
