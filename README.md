@@ -22,3 +22,7 @@ Ledger Bee's website: https://ledgerbee.github.io/
 - **Node.js** 
 - **npm** (Node package manager)
 - **A database** (PostgreSQL) — see configuration section for details
+
+
+## Support
+ozandeniz@mail.com
